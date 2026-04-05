@@ -1,10 +1,10 @@
-Src/.vs/
-Src/**/.config/
+/src/.vs/
+/src/**/.config/
 
-Src/**/[Bb]in/
-Src/**/[Oo]bj/
+/src/**/[Bb]in/
+/src/**/[Oo]bj/
 
-Src/**/*.suo
-Src/**/*.user
+/src/**/*.suo
+/src/**/*.user
 
-*.pubxml
+/publish/
